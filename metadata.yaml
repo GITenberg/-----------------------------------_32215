@@ -1,0 +1,31 @@
+_repo: '-----------------------------------_32215'
+_version: 0.1.0
+alternative_title: Romiosini's History, Volume A
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eftaliotis, Argyris
+    alias: Εφταλιώτης, Αργύρης
+    birthdate: 1849
+    deathdate: 1923
+    gutenberg_agent_id: '35730'
+    url: http://www.gutenberg.org/2009/agents/35730
+    wikipedia: http://el.wikipedia.org/wiki/%CE%91%CF%81%CE%B3%CF%8D%CF%81%CE%B7%CF%82_%CE%95%CF%86%CF%84%CE%B1%CE%BB%CE%B9%CF%8E%CF%84%CE%B7%CF%82
+description: ''
+gutenberg_issued: '2010-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32215'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greece -- History -- 323-1453'
+- !lcc 'DF'
+- !lcsh 'Greece -- History'
+- !lcsh 'Byzantine Empire -- History'
+title: Ιστορία της Ρωμιοσύνης, Πρώτος τόμος
+url: http://www.gutenberg.org/ebooks/32215
